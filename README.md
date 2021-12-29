@@ -16,3 +16,4 @@ Simply import the zipped datasaver.cs file to begin.
 Open a standard time-based or non-time based chart and add any desired indicators and metrics. Using a playback connection on historical market data is my preferred method of data collection. The charts support up to a single second of temporal resolution, and can retrieve up to 90 days of order flow data. Then, add the DataSaver indicator to the target chart and drag your mouse across the chart to start data collection.
 
 Candlestick data will be stored as comma-separated values under ohlcv.txt and all indicators will be in indicators.txt.
+![image](https://user-images.githubusercontent.com/67923084/147692466-2c485f37-3689-4574-b609-cd575688f40d.png)
