@@ -58,6 +58,6 @@ Below is a representative summary of the type of visualizations one can create a
 ### 10 Range Charts Chunked by Number of Bars and Time Re-indexed
 ![range_200bars](https://user-images.githubusercontent.com/67923084/147706233-f1cbc7ae-03e4-442c-8d6f-6a625905f26e.png)
 
-### Non-Time-Indexed Indicator Superimposition and Time Re-indexed
+### Non-Time-Indexed Indicator Superimposed and Time Re-indexed
 ![range_indi](https://user-images.githubusercontent.com/67923084/147706586-e73669ce-460b-46d6-a88b-309ce426add8.png)
 
