@@ -3,7 +3,8 @@ A comprehensive set of techniques and tools to collect, process and visualize fi
 
 The pipeline includes a special section on wrangling non-time-indexed data (**tick/range/volume charts**). Such data is especially important since time-based charts exhibit undesirable statistical properties and over-sample low activity periods while under-sampling high activity periods (see Easley, Lopez de Prado, and O’Hara [2012](https://www.stern.nyu.edu/sites/default/files/assets/documents/con_035928.pdf)).
 
-- [Futures-Visualization-Pipeline](#futures-visualization-pipeline)
+
+## Table of Contents
   * [Data Collection](#data-collection)
     + [DataSaver](#datasaver)
   * [Data Processing](#data-processing)
