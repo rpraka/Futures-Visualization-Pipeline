@@ -28,4 +28,8 @@ DataSaver ports the data from NT 8 very cleanly, consistently generating an accu
 **Section 2** demonstrates processing techniques with non-time-indexed data, using chunking techniques and time-reindexing since the data sampling frequency is quite high. It also reveals techniques for interpretable visualizations with multiple superimposed indicator series.
 
 ## Visualization
+Below is a representative summary of the type of visualizations one can create after following this pipeline.
+
+### 1 Minute Charts Aggregated by Day
+![minute_charts](https://user-images.githubusercontent.com/67923084/147705283-bed1e70d-fffa-4807-b2cf-fffe2712684b.png)
 
