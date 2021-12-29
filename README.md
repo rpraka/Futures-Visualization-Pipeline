@@ -15,7 +15,7 @@ The pipeline includes a special section on wrangling non-time-indexed data (**ti
     + [Dual Intrument Plotting](#dual-intrument-plotting)
   * [Non-Time-Indexed Charting Summary](#non-time-indexed-charting-summary)
     + [10 Range Charts Chunked by Number of Bars and Time Re-indexed](#10-range-charts-chunked-by-number-of-bars-and-time-re-indexed)
-    + [Non-Time-Indexed Indicator Superimposition and Time Re-indexed](#non-time-indexed-indicator-superimposition-and-time-re-indexed)
+    + [Non-Time-Indexed Indicator Superimposed and Time Re-indexed](#non-time-indexed-indicator-superimposed-and-time-re-indexed)
 
 ## Data Collection
 When it comes to strategy development, collecting large amounts of reliable data is of utmost importance. Several resources exist to collect intra-day historical data for equity markets at almost no cost (yfinance, alpaca, polygon.io, etc.). However, APIs for intra-day Futures data are quite expensive, especially for beginners interested in getting their feet wet.
