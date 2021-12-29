@@ -30,7 +30,7 @@ DataSaver ports the data from NT 8 very cleanly, consistently generating an accu
 ## Visualization
 Below is a representative summary of the type of visualizations one can create after following this pipeline. See Sections 1 and 2 of _Futures_Visualization_Pipeline.ipynb_ for details behind each visualization technique.
 
-### Time-Indexed Charting 
+### Time-Indexed Charting Summary
 ### 1 Minute Charts Aggregated by Day, Filtered by Cash Session
 ![minute_charts](https://user-images.githubusercontent.com/67923084/147705283-bed1e70d-fffa-4807-b2cf-fffe2712684b.png)
 
@@ -40,7 +40,7 @@ Below is a representative summary of the type of visualizations one can create a
 ### Dual Intrument Plotting
 ![dual_instrument_plotting](https://user-images.githubusercontent.com/67923084/147705654-522b8ea5-deb9-4c11-855b-b99b2dc58256.png)
 
-## Non-Time-Indexed Charting
+## Non-Time-Indexed Charting Summary
 ### 10 Range Charts Chunked by Number of Bars and Time Re-indexed
 ![range_200bars](https://user-images.githubusercontent.com/67923084/147706233-f1cbc7ae-03e4-442c-8d6f-6a625905f26e.png)
 
