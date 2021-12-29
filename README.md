@@ -9,7 +9,7 @@ When it comes to strategy development, collecting large amounts of reliable data
 Here, I present a completely free option to extract high frequency data using the NinjaTrader 8 platform. This approach works in both the free evaluation software as well as the paid version.
 
 ### DataSaver
-Due to the lack of free options for scraping NT 8 data into an easily digestible format, I am releasing my own called **DataSaver**. It allows for **free** exportation of all chart data, including indicators - which prevents computational discrepancies from occuring between your backtesting and live trading environments.
+Due to the lack of free options for scraping NT 8 data into an easily digestible format, I am releasing my own called **DataSaver**. It allows for **free** exportation of all chart data, including indicators - which eliminates computational discrepancies from occuring between your backtesting and live trading environments.
 
 Simply import the zipped _datasaver.cs_ file to begin.
 ![image](https://user-images.githubusercontent.com/67923084/147692626-2a0a7e04-f2ea-45d8-b726-343d72b1f70f.png)
@@ -21,4 +21,7 @@ Candlestick data will be stored as comma-separated values under ohlcv.txt and al
 ![image](https://user-images.githubusercontent.com/67923084/147692550-b63da1ff-b710-402b-8597-5c6e9217468d.png)
 
 ## Data Processing and Visualization
+DataSaver ports the data from NT 8 very cleanly, consistently generating an accurate copy of the data with 0 missing values. This makes data processing quite simple.
+
+
 
