@@ -3,6 +3,19 @@ A comprehensive set of techniques and tools to collect, process and visualize fi
 
 The pipeline includes a special section on wrangling non-time-indexed data (**tick/range/volume charts**). Such data is especially important since time-based charts exhibit undesirable statistical properties and over-sample low activity periods while under-sampling high activity periods (see Easley, Lopez de Prado, and O’Hara [2012](https://www.stern.nyu.edu/sites/default/files/assets/documents/con_035928.pdf)).
 
+- [Futures-Visualization-Pipeline](#futures-visualization-pipeline)
+  * [Data Collection](#data-collection)
+    + [DataSaver](#datasaver)
+  * [Data Processing](#data-processing)
+  * [Visualization](#visualization)
+    + [Time-Indexed Charting Summary](#time-indexed-charting-summary)
+    + [1 Minute Charts Aggregated by Day, Filtered by Cash Session](#1-minute-charts-aggregated-by-day--filtered-by-cash-session)
+    + [Multi-Panel Indicator and Overlay Plotting Demonstration](#multi-panel-indicator-and-overlay-plotting-demonstration)
+    + [Dual Intrument Plotting](#dual-intrument-plotting)
+  * [Non-Time-Indexed Charting Summary](#non-time-indexed-charting-summary)
+    + [10 Range Charts Chunked by Number of Bars and Time Re-indexed](#10-range-charts-chunked-by-number-of-bars-and-time-re-indexed)
+    + [Non-Time-Indexed Indicator Superimposition and Time Re-indexed](#non-time-indexed-indicator-superimposition-and-time-re-indexed)
+
 ## Data Collection
 When it comes to strategy development, collecting large amounts of reliable data is of utmost importance. Several resources exist to collect intra-day historical data for equity markets at almost no cost (yfinance, alpaca, polygon.io, etc.). However, APIs for intra-day Futures data are quite expensive, especially for beginners interested in getting their feet wet.
 
