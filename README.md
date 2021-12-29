@@ -9,7 +9,7 @@ When it comes to strategy development, collecting large amounts of reliable data
 Here, I present a completely free option to extract high frequency data using the NinjaTrader 8 platform. This approach works in both the free evaluation software as well as the paid version.
 
 ### DataSaver
-Due to the lack of free options for scraping NT 8 data into an easily digestible format, I am releasing my own called **DataSaver**. It allows the exportation of all chart data, including indicators - which prevents computational discrepancies from occuring between your backtesting and live trading environments.
+Due to the lack of free options for scraping NT 8 data into an easily digestible format, I am releasing my own called **DataSaver**. It allows for **free** exportation of all chart data, including indicators - which prevents computational discrepancies from occuring between your backtesting and live trading environments.
 
 Simply import the zipped datasaver.cs file to begin.
 ![image](https://user-images.githubusercontent.com/67923084/147692626-2a0a7e04-f2ea-45d8-b726-343d72b1f70f.png)
