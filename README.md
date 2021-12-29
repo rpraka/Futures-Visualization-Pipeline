@@ -20,10 +20,12 @@ Candlestick data will be stored as comma-separated values under ohlcv.txt and al
 
 ![image](https://user-images.githubusercontent.com/67923084/147692550-b63da1ff-b710-402b-8597-5c6e9217468d.png)
 
-## Data Processing and Visualization
+## Data Processing
 DataSaver ports the data from NT 8 very cleanly, consistently generating an accurate copy of the data with 0 missing values. This greatly simplifies data processing.
 
 **Section 1** of _Futures_Visualization_Pipeline.ipynb_ demonstrates a multi-instrument processing pipeline, where time-indexed data from the highly correlated Nasdaq (NQ) and S&P 500 (ES) Futures is merged together. The indicator series are aligned with their corresponding candlesticks, allowing for superimposed visualization.
 
 **Section 2** demonstrates processing techniques with non-time-indexed data, using chunking techniques and time-reindexing since the data sampling frequency is quite high. It also reveals techniques for interpretable visualizations with multiple superimposed indicator series.
+
+## Visualization
 
