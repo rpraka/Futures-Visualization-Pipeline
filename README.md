@@ -30,7 +30,7 @@ DataSaver ports the data from NT 8 very cleanly, consistently generating an accu
 ## Visualization
 Below is a representative summary of the type of visualizations one can create after following this pipeline.
 
-## Time-Indexed Charting 
+### Time-Indexed Charting 
 ### 1 Minute Charts Aggregated by Day, Filtered by Cash Session
 ![minute_charts](https://user-images.githubusercontent.com/67923084/147705283-bed1e70d-fffa-4807-b2cf-fffe2712684b.png)
 
