@@ -15,7 +15,7 @@ The pipeline includes a special section on wrangling non-time-indexed data (**ti
     + [Dual Intrument Plotting](#dual-intrument-plotting)
   * [Non-Time-Indexed Charting Summary](#non-time-indexed-charting-summary)
     + [10 Range Charts Chunked by Number of Bars and Time Re-indexed](#10-range-charts-chunked-by-number-of-bars-and-time-re-indexed)
-    + [Non-Time-Indexed Indicator Superimposed and Time Re-indexed](#non-time-indexed-indicator-superimposed-and-time-re-indexed)
+    + [Non-Time-Indexed Indicators Superimposed and Time Re-indexed](#non-time-indexed-indicators-superimposed-and-time-re-indexed)
 
 ## Data Collection
 When it comes to strategy development, collecting large amounts of reliable data is of utmost importance. Several resources exist to collect intra-day historical data for equity markets at almost no cost (yfinance, alpaca, polygon.io, etc.). However, APIs for intra-day Futures data are quite expensive, especially for beginners interested in getting their feet wet.
@@ -58,6 +58,6 @@ Below is a representative summary of the type of visualizations one can create a
 ### 10 Range Charts Chunked by Number of Bars and Time Re-indexed
 ![range_200bars](https://user-images.githubusercontent.com/67923084/147706233-f1cbc7ae-03e4-442c-8d6f-6a625905f26e.png)
 
-### Non-Time-Indexed Indicator Superimposed and Time Re-indexed
+### Non-Time-Indexed Indicators Superimposed and Time Re-indexed
 ![range_indi](https://user-images.githubusercontent.com/67923084/147706586-e73669ce-460b-46d6-a88b-309ce426add8.png)
 
