@@ -11,7 +11,7 @@ Here, I present a completely free option to extract high frequency data using th
 ### DataSaver
 Due to the lack of free options for scraping NT 8 data into an easily digestible format, I am releasing my own called **DataSaver**. It allows for **free** exportation of all chart data, including indicators - which prevents computational discrepancies from occuring between your backtesting and live trading environments.
 
-Simply import the zipped datasaver.cs file to begin.
+Simply import the zipped _datasaver.cs_ file to begin.
 ![image](https://user-images.githubusercontent.com/67923084/147692626-2a0a7e04-f2ea-45d8-b726-343d72b1f70f.png)
 
 Open a standard time-based or non-time based chart and add any desired indicators and metrics. Using a playback connection on historical market data is my preferred method of data collection. The charts support up to a single second of temporal resolution, and can retrieve up to 90 days of order flow data. Then, add the DataSaver indicator to the target chart and drag your mouse across the chart to start data collection.
