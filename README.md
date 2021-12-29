@@ -20,4 +20,5 @@ Candlestick data will be stored as comma-separated values under ohlcv.txt and al
 
 ![image](https://user-images.githubusercontent.com/67923084/147692550-b63da1ff-b710-402b-8597-5c6e9217468d.png)
 
+## Data Processing and Visualization
 
